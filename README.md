@@ -1,1 +1,1 @@
-This is my to-be used note repo.
+This is my current note repo.
